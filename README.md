@@ -6,4 +6,5 @@ Help to run my repository locally on your computers:
 
 clone your repository
 run "npm -install " to install node module folder
-And to code is ready to use
+
+And the code is ready to use
